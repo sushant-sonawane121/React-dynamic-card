@@ -1,0 +1,53 @@
+const CardData = [
+    {
+        id:1,
+        username:"Sushant",
+        email:"sushantsonawane121@gmail.com",
+        course:"MCA"
+    },
+    {
+        id:2,
+        username:"kshitij",
+        email:"kshitijsonawane123@gmail.com",
+        course:"Engineering"
+    },
+    {
+        id:3,
+        username:"Shubham",
+        email:"shubhamparbat123@gmail.com",
+        course:"MCA"
+    },
+    {
+        id:4,
+        username:"Vaibhav",
+        email:"vaibhavKhatode123@gmail.com",
+        course:"Agree"
+    },
+    {
+        id:5,
+        username:"Shriram",
+        email:"shriramsonawane123@gmail.com",
+        course:"MCA"
+    },
+    {
+        id:6,
+        username:"Om",
+        email:"omwadekar123@gmail.com",
+        course:"MCA"
+    },
+    {
+        id:7,
+        username:"sham",
+        email:"shamsundar123@gmail.com",
+        course:"Engineering"
+    },
+    {
+        id:8,
+        username:"Mangesh",
+        email:"mangeshmali123@gmail.com",
+        course:"Agree"
+    },
+
+];
+
+export default CardData;
